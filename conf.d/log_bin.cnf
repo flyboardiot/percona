@@ -1,0 +1,4 @@
+[mysqld]
+
+log_bin=mysql-bin
+log_error=mysql-bin.err
